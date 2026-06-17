@@ -11,10 +11,14 @@
             "id": "e2b50a9f49211684",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "解决github无法上传问题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "解决github无法上传问题"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "解决github无法上传问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "解决github无法上传问题 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "解决github无法上传问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "解决github无法上传问题 的出链列表"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "解决github无法上传问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "解决github无法上传问题 的大纲"
             }
           }
         ]
@@ -178,6 +185,18 @@
   },
   "active": "e2b50a9f49211684",
   "lastOpenFiles": [
+    "assets/解决github无法上传问题",
+    "assets/解决github无法上传问题/file-20260617114310295.png",
+    "assets/解决github无法上传问题/file-20260617114310295 1.png",
+    "assets/README/file-20260617113418624.png",
+    "assets/解决github无法上传问题/file-20260617114310296.png",
+    "assets/README/file-20260617113309359.png",
+    "assets/README/file-20260617113210194.png",
+    "assets/README",
+    "assets",
+    "解决github无法上传问题.md",
+    "REDME.md",
+    "欢迎 - 副本.md",
     "欢迎.md",
     "未命名.base"
   ]
